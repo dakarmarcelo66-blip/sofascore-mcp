@@ -1,0 +1,1 @@
+# sofascore-mcp
